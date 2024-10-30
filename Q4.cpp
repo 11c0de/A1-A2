@@ -23,3 +23,10 @@ int main()
     }
     return 0;
 }
+
+// output:
+// Enter a positive integer:-19
+// Error! Factorial of a negative number doesn't exist.
+
+// Enter a positive integer:5
+// Factorial of 5 = 120

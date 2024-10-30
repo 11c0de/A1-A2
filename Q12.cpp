@@ -52,3 +52,33 @@ int main()
     calculator();
     return 0;
 }
+
+
+// output:
+// Enter operator(+,-,*,/,s for square root):x
+// Enter two numbers: 12 13
+// Error! Invalid operation!
+
+// Enter operator(+,-,*,/,s for square root):s
+// Enter a number:64
+// Square root of 64 is 8
+
+// Enter operator(+,-,*,/,s for square root):+
+// Enter two numbers: 12 12
+// 12+12=24
+
+// Enter operator(+,-,*,/,s for square root):-
+// Enter two numbers: 24 12
+// 24-12=12
+
+// Enter operator(+,-,*,/,s for square root):*
+// Enter two numbers: 12 12
+// 12*12=144
+
+// Enter operator(+,-,*,/,s for square root):/
+// Enter two numbers: 12 0
+// Error! Division by zero.
+
+// Enter operator(+,-,*,/,s for square root):/
+// Enter two numbers: 12 6
+// 12/6=2

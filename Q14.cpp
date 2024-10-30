@@ -19,3 +19,7 @@ int main()
     cout << "2nd maximum element: " << secondMax << endl;
     return 0;
 }
+
+// output:
+// 1st maximum element: 45
+// 2nd maximum element: 31

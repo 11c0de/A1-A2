@@ -24,3 +24,10 @@ int main()
     }
     return 0;
 }
+
+// output:
+// Enter a number:121
+// 121 is a Palindrome number.
+
+// Enter a number:123
+// 123 is not a Palindrome number.

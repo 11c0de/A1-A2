@@ -21,3 +21,11 @@ cout << endl;
 }
 return 0;
 }
+
+//output:
+// Enter no of lines:5
+// *****
+// ****
+// ***
+// **
+// *

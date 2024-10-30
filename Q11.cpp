@@ -24,3 +24,9 @@ int main(){
     cout<<"Length of the string: "<<length<<endl;
     cout<<"Number of Vowels in the String: "<<vowelCount<<endl;
 }
+
+
+// output:
+// Enter a string:Arnab Das
+// Length of the string: 9
+// Number of Vowels in the String: 3

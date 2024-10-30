@@ -10,3 +10,6 @@ int main()
     cout << "Reversed string: " << str << endl;
     return 0;
 }
+
+//output:
+//Reversed string: enolcyC

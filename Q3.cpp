@@ -38,3 +38,28 @@ int main()
     
     return 0;
 }
+
+// output:
+// Enter operator(+,-,*,/):y
+// Enter two operands: 12 12
+// Error! Operator is not correct.
+
+// Enter operator(+,-,*,/):+
+// Enter two operands: 12 12
+// 12+12=24
+
+// Enter operator(+,-,*,/):-
+// Enter two operands: 24 12
+// 24-12=12
+
+// Enter operator(+,-,*,/):*
+// Enter two operands: 12 12
+// 12*12=144
+
+// Enter operator(+,-,*,/):/
+// Enter two operands: 12 0
+// Error! Division by zero.
+
+// Enter operator(+,-,*,/):/ 
+// Enter two operands: 24 6
+// 24/6=4

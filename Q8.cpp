@@ -30,3 +30,14 @@ int main(){
     }
     return 0;
 }
+
+// output:
+// Enter size of the array:5
+// Enter array elements:12 34 56 78 90
+// Enter key:78
+// Element found at index 3
+
+// Enter size of the array:5  
+// Enter array elements:12 34 56 78 90
+// Enter key:99
+// Element not found

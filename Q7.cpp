@@ -21,3 +21,10 @@ int main()
     
     return 0;
 }
+
+// output:
+// Enter two numbers: 60 24
+// GCD = 12
+
+// Enter two numbers: 12 12
+// GCD = 12

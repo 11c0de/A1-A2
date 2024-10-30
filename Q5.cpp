@@ -24,3 +24,10 @@ int main()
     }
     return 0;
 }
+
+// output:
+// Enter a number:157
+// 157 is not an Armstrong number.
+
+// Enter a number:153
+// 153 is an Armstrong number.

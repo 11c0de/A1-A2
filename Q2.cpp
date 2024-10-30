@@ -16,3 +16,13 @@ int main()
     }
     return 0;
 }
+
+// output:
+// Enter a Year:2000
+// 2000 is a leap year.
+
+// Enter a Year:1700
+// 1700 is not a leap year.
+
+// Enter a Year:1968
+// 1968 is a leap year.
